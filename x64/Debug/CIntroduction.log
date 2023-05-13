@@ -1,0 +1,3 @@
+﻿  JogoLogicaC.cpp
+C:\Users\lucas\source\repos\CIntroduction\CIntroduction\JogoLogicaC.cpp(14,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  CIntroduction.vcxproj -> C:\Users\lucas\source\repos\CIntroduction\x64\Debug\CIntroduction.exe
